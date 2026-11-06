@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GATE FOCUS</string>
+    <string name="blocker_service_description">Monitors and blocks distracting apps during study sessions.</string>
+    <string name="telegram_listener_description">Filters study and non-study notifications from Telegram.</string>
+</resources>

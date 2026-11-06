@@ -1,0 +1,3 @@
+<notification-listener
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/telegram_listener_description" />
